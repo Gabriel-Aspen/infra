@@ -1,9 +1,9 @@
 template_path: ecs-template.yaml
 
 parameters:
-  SubnetID: subnet-5512b108
+  SubnetID: REPLACE_ME
   ClusterName: test-cluster
-  VpcId: vpc-7e9dda06
+  VpcId: REPLACE_ME
 
 stack_tags:
   Name: test-cluster

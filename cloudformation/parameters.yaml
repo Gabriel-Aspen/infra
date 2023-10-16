@@ -1,0 +1,4 @@
+Parameters:
+  SubnetID: YOUR_SUBNET_ID_CHANGE_THIS
+  ClusterName: test-cluster
+  VpcId: YOUR_VPC_ID_CHANGE_THIS

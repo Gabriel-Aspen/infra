@@ -1,0 +1,10 @@
+template_path: ecs-template.yaml
+
+parameters:
+  SubnetID: subnet-5512b108
+  ClusterName: test-cluster
+  VpcId: vpc-7e9dda06
+
+stack_tags:
+  Name: test-cluster
+  Environment: test

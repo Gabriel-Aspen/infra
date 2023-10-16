@@ -1,0 +1,5 @@
+MarkupSafe==2.0.1
+sceptre~=2.4.0
+troposphere==3.0.3
+boto3
+PyYAML==5.3.1
